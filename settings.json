@@ -8,7 +8,7 @@
   "server": {
     "ip": "FakeFriendsSmpS2.aternos.me",
     "port": 14112,
-    "version": "26.1.2"
+    "version": 1.26.1"
   },
   "position": {
     "enabled": true,
